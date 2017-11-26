@@ -1,5 +1,5 @@
 {
-  "name": "omarefg/platzom",
+  "name": "@omarefg/platzom",
   "version": "0.1.1",
   "description": "Traductor de idioma Platzom",
   "main": "dist/src/platzom.js",

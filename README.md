@@ -12,7 +12,7 @@ Platzom es un idioma inventado para el [curso de fundamentos de JavaScript](http
 ## Instalación
 
 ```
-npm install omarefg/platzom
+npm install @omarefg/platzom
 ```
 
 ## Uso
