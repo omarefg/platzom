@@ -1,6 +1,6 @@
 # Platzom
 
-Platzom es un idioma inventado para el [curso de fundamentos de JavaScript](https://platzi.com/js) en [Platzi](https://platzi.com), el mejor lugar de educación online.
+Platzom es un idioma inventado para el [curso de fundamentos de JavaScript](https://platzi.com/js) en [Platzi](https://platzi.com).
 
 ## Descripción del idioma
 
@@ -28,8 +28,8 @@ platzom("sometemos") //SoMeTeMoS
 ```
 
 ## Créditos
-- [Sacha Lifszyc] (https://twitter.com/slifszyc)
-- [Omar Flores] (https://twitter.com/omarefg)
+- [Sacha Lifszyc](https://twitter.com/slifszyc)
+- [Omar Flores](https://twitter.com/omarefg)
 
 ## Licencia
 
